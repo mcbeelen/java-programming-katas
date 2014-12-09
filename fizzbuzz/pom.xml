@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>io.github.mcbeelen</groupId>
+		<artifactId>java-programming-katas</artifactId>
+		<version>1.0.0</version>
+	</parent>
+
+	<artifactId>fizzbuzz</artifactId>
+
+	<packaging>jar</packaging>
+
+	<name>The FizzBuzz Kata</name>
+	<description>Print the proper output for numbers in the FizzBuzz game</description>
+
+	<url>http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz</url>
+
+</project>

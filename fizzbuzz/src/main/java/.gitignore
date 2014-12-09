@@ -1,0 +1,7 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### empty_directory template
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+
