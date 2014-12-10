@@ -17,9 +17,10 @@ fixing you with a steely gaze... time stands still, your mouth dries up,
 your palms become sweatier and sweatier until you finally manage to croak "Fizz!".
 Doom is avoided, and the pointing finger moves on.
 
-So of course in order to avoid embarassment infront of your whole class,
+So of course in order to avoid embarrassment in front of your whole class,
+
 you have to get the full list printed out so you know what to say.
-Your class has about 33 pupils and he might go round three times before the bell rings for breaktime.
+Your class has about 33 pupils and he might go round three times before the bell rings for break time.
 Next maths lesson is on Thursday. Get coding!
 
 Write a program that prints the numbers from 1 to 100.
@@ -57,3 +58,5 @@ Stage 2 - new requirements
 
  * A number is fizz if it is divisible by 3 or if it has a 3 in it
  * A number is buzz if it is divisible by 5 or if it has a 5 in it
+ * A number is fizzbuzz if both rules above apply
+ 
