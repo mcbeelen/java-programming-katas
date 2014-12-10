@@ -32,6 +32,7 @@
 	<modules>
 		<module>fizzbuzz</module>
 		<module>harry-potter-books</module>
+		<module>bowling-alley-kata</module>
 	</modules>
 
 
